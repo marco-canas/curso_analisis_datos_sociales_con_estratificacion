@@ -1,6 +1,3 @@
-Perfecto, Marco. A continuación te presento el **diseño del Programa Oficial Institucional**, redactado con el **lenguaje académico-administrativo** que suelen exigir facultades y consejos curriculares en universidades latinoamericanas (incluida la UdeA), y plenamente coherente con el seminario que definimos.
-
----
 
 # **PROGRAMA OFICIAL INSTITUCIONAL**
 
@@ -34,15 +31,21 @@ Perfecto, Marco. A continuación te presento el **diseño del Programa Oficial I
 
 El seminario **Análisis de datos sobre clases sociales y estratificación con Python, Stata y herramientas de Inteligencia Artificial** tiene como propósito introducir a los estudiantes en el análisis estadístico de las desigualdades sociales desde una perspectiva de clases sociales y otros ejes de estratificación como el género, el origen étnico y las cohortes de edad.
 
-A lo largo del curso, los estudiantes incorporarán herramientas de programación en **Python** y **Stata**, apoyándose en asistentes de **Inteligencia Artificial (IA)** como soporte para la escritura, traducción y depuración de sintaxis y scripts. El seminario enfatiza un enfoque práctico y aplicado, trabajando con **bases de datos de encuestas sociales de diseño muestral probabilístico**, promoviendo la articulación entre teoría social, evidencia empírica y técnicas estadísticas.
+A lo largo del curso, los estudiantes incorporarán herramientas de programación en **Python** y **Stata**, apoyándose en asistentes de **Inteligencia Artificial (IA)** como soporte para la escritura, traducción y depuración de sintaxis y scripts.   
+
+El seminario enfatiza un enfoque práctico y aplicado, trabajando con **bases de datos de encuestas sociales de diseño muestral probabilístico**, promoviendo la articulación entre teoría social, evidencia empírica y técnicas estadísticas.
 
 ---
 
 ## 3. Justificación
 
-El estudio empírico de la desigualdad social constituye un eje central de las ciencias sociales contemporáneas. En este contexto, resulta indispensable formar a los estudiantes en el manejo de herramientas estadísticas que permitan analizar grandes volúmenes de información provenientes de encuestas sociales.
+El estudio empírico de la desigualdad social constituye un eje central de las ciencias sociales contemporáneas.   
 
-La creciente disponibilidad de datos y el desarrollo de lenguajes de programación y software estadístico, junto con el surgimiento de asistentes de Inteligencia Artificial, demandan nuevas competencias metodológicas orientadas a la **reproducibilidad**, la **traducción entre lenguajes** y el **análisis crítico de resultados**. Este seminario responde a dicha necesidad, fortaleciendo la formación metodológica de los estudiantes y ampliando sus capacidades para la investigación social aplicada.
+En este contexto, resulta indispensable formar a los estudiantes en el manejo de herramientas estadísticas que permitan analizar grandes volúmenes de información provenientes de encuestas sociales.
+
+La creciente disponibilidad de datos y el desarrollo de lenguajes de programación y software estadístico, junto con el surgimiento de asistentes de Inteligencia Artificial, demandan nuevas competencias metodológicas orientadas a la **reproducibilidad**, la **traducción entre lenguajes** y el **análisis crítico de resultados**.   
+
+Este seminario responde a dicha necesidad, fortaleciendo la formación metodológica de los estudiantes y ampliando sus capacidades para la investigación social aplicada.
 
 ---
 
@@ -111,8 +114,8 @@ Brindar formación introductoria al análisis de datos estadísticos sobre desig
 
 El seminario se desarrollará mediante:
 
-* Clases presenciales de carácter teórico-práctico
-* Uso permanente de computador
+* Clases grabadas en YouTube y Cuadernos Jupyter de carácter teórico-práctico
+* Uso permanente de computador.
 * Análisis de bases de datos reales de encuestas sociales
 * Elaboración de scripts y sintaxis en Python y Stata
 * Trabajos prácticos individuales y grupales
@@ -154,11 +157,3 @@ Al finalizar el curso, el estudiante estará en capacidad de:
 * Interpretar resultados desde una perspectiva teórica
 * Desarrollar análisis reproducibles apoyados en herramientas de IA
 
----
-
-Si deseas, puedo ahora:
-
-* Ajustarlo **exactamente al formato institucional de la UdeA**
-* Elaborar la **tabla de correspondencia objetivos–contenidos–evaluación**
-* Diseñar el **programa analítico clase por clase con competencias**
-* Preparar el **documento en Word o PDF listo para radicación institucional**

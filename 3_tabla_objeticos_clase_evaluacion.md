@@ -1,6 +1,3 @@
-Excelente, Marco. A continuación te presento la **Tabla de Correspondencia Objetivos – Contenidos – Evaluación**, redactada con el **formato y el nivel de precisión** que suelen solicitar los comités curriculares y las direcciones académicas en procesos de aprobación institucional.
-
----
 
 ## **Tabla de Correspondencia: Objetivos – Contenidos – Estrategias de Evaluación**
 
@@ -25,10 +22,4 @@ Excelente, Marco. A continuación te presento la **Tabla de Correspondencia Obje
 * Se prioriza la **reproducibilidad del análisis** mediante la entrega de scripts y sintaxis.
 * El trabajo final integra **todas las etapas del análisis estadístico**, desde el procesamiento de datos hasta la interpretación teórica.
 
----
 
-Si quieres, el siguiente paso lógico (muy valorado en aprobación curricular) sería:
-
-* Construir la **matriz de Resultados de Aprendizaje – Evidencias – Criterios de Evaluación**, o
-* Diseñar la **rúbrica detallada del trabajo práctico final**, o
-* Adaptar esta tabla al **formato oficial en Excel o Word** que use tu Facultad.
